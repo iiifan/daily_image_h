@@ -1,4 +1,2 @@
-#ifndef _IMAGE_213_Z98C_H_
-#define _IMAGE_213_Z98C_H_
-
-const unsigned char image_black[] PROGMEM = {0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00}
+const unsigned char test_image[] = { 0x01, 0x02, 0x03, 0x04 };
+const int test_image_len = 4;
