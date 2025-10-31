@@ -1,0 +1,2 @@
+const unsigned char 3c[] = { 0x01, 0x02, 0x03, 0x04 };
+//const int test_image_len = 4;
